@@ -6,7 +6,7 @@ A comprehensive collection of artificial intelligence and machine learning resea
 [![arXiv](https://img.shields.io/badge/arXiv-papers-b31b1b.svg)](https://arxiv.org/)
 
 **Last Updated**: 2025-09-27
-**Total Papers**: 286
+**Total Papers**: 216
 **Categories**: 11
 
 ## Table of Contents
@@ -25,29 +25,30 @@ A comprehensive collection of artificial intelligence and machine learning resea
 
 ## Recent Highlights
 
-- **[Predicting Credit Spreads and Ratings with Machine Learning: The Role of Non-Financial Data](https://arxiv.org/abs/2509.19042v1)** (2025-09-23)
-  - *Yanran Wu* et al.
+- **[A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges](https://arxiv.org/abs/2406.11903)** (2024-06-17)
+  - *Yuqi Nie* et al.
 
-- **[An Artificial Intelligence Value at Risk Approach: Metrics and Models](https://arxiv.org/abs/2509.18394v1)** (2025-09-22)
-  - *Luis Enriquez Alvarez* et al.
+- **[AlphaForge: A Framework to Mine and Dynamically Combine Formulaic Alpha Factors](https://arxiv.org/abs/2406.18394)** (2024-06-26) - *AAAI 2025*
+  - *Hao Shi* et al.
 
-- **[Enhancing OHLC Data with Timing Features: A Machine Learning Evaluation](https://arxiv.org/abs/2509.16137v1)** (2025-09-19)
-  - *Ruslan Tepelyan* et al.
+- **[Kronos: A Foundation Model for the Language of Financial Markets](https://arxiv.org/abs/2508.02739)** (2025-08-05)
+  - *Yu Shi* et al.
 
-- **[Leveraging Artificial Intelligence as a Strategic Growth Catalyst for Small and Medium-sized Enterprises](https://arxiv.org/abs/2509.14532v1)** (2025-09-18)
-  - *Oluwatosin Agbaakin* et al.
+- **[QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading](https://arxiv.org/abs/2509.09995)** (2024-09-16)
+  - *Zheng Li* et al.
 
-- **[Deep Learning in the Sequence Space](https://arxiv.org/abs/2509.13623v1)** (2025-09-17)
-  - *Marlon Azinovic-Yang* et al.
+- **[R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization](https://arxiv.org/abs/2505.15155)** (2025-05-21)
+  - *Yuante Li* et al.
 
-- **[Digital Transformation and Corporate Financial Asset Allocation: Evidence from China](https://arxiv.org/abs/2509.09095v1)** (2025-09-11)
-  - *Yundan Guo* et al.
+- **[FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting](https://arxiv.org/abs/2502.18834)** (2025-02-26)
+  - *Yifan Hu* et al.
 
-- **[An Interpretable Deep Learning Model for General Insurance Pricing](https://arxiv.org/abs/2509.08467v1)** (2025-09-10)
-  - *Patrick J. Laub* et al.
+- **[From Deep Learning to LLMs: A survey of AI in Quantitative Investment](https://arxiv.org/abs/2503.21422)** (2025-03-31)
+  - *Bokai Cao* et al.
 
-- **[Machine Learning with Multitype Protected Attributes: Intersectional Fairness through Regularisation](https://arxiv.org/abs/2509.08163v1)** (2025-09-09)
-  - *Ho Ming Lee* et al.
+- **[TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets](https://arxiv.org/abs/2409.01013)** (2024-09-02)
+  - *Jiahao Li* et al.
+
 
 ## Blockchain, DeFi & Web3 Finance
 
@@ -144,6 +145,9 @@ A comprehensive collection of artificial intelligence and machine learning resea
 
 ## Derivatives & Hedging
 
+- **[Hedging Beyond the Mean: A Distributional Reinforcement Learning Perspective for Hedging Portfolios with Structured Products](https://arxiv.org/abs/2411.18274)** (2024-11-27)
+  - *Anil Sharma* et al.
+
 - **[The Paradox of Doom: Acknowledging Extinction Risk Reduces the Incentive to Prevent It](https://arxiv.org/abs/2509.04855v1)** (2025-09-05)
   - *Jakub Growiec* et al.
 
@@ -164,6 +168,9 @@ A comprehensive collection of artificial intelligence and machine learning resea
   - *Davit Gondauri* et al.
 
 ## High-Frequency Trading
+
+- **[QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading](https://arxiv.org/abs/2509.09995)** (2024-09-16)
+  - *Zheng Li* et al.
 
 - **[Spatio-Temporal Directed Graph Learning for Account Takeover Fraud Detection](https://arxiv.org/abs/2509.20339v1)** (2025-09-24)
   - *Mohsen Nayebi Kerdabadi* et al.
@@ -200,6 +207,21 @@ A comprehensive collection of artificial intelligence and machine learning resea
   - *Mohammadhossein Homaei* et al.
 
 ## Large Language Models in Finance
+
+- **[A Survey of Large Language Models for Financial Applications: Progress, Prospects and Challenges](https://arxiv.org/abs/2406.11903)** (2024-06-17)
+  - *Yuqi Nie* et al.
+
+- **[Kronos: A Foundation Model for the Language of Financial Markets](https://arxiv.org/abs/2508.02739)** (2025-08-05)
+  - *Yu Shi* et al.
+
+- **[InvestLM: A Large Language Model for Investment using Financial Domain Instruction Tuning](https://arxiv.org/abs/2309.13064)** (2023-09-23)
+  - *Yi Yang* et al.
+
+- **[EconNLI: Evaluating Large Language Models on Economics Reasoning](https://arxiv.org/abs/2310.07828)** (2023-10-11)
+  - *Yue Guo* et al.
+
+- **[Trading-R1: Financial Trading with LLM Reasoning via Reinforcement Learning](https://arxiv.org/abs/2412.03555)** (2024-12-04)
+  - *Zheng Li* et al.
 
 - **[Can Less Precise Be More Reliable? A Systematic Evaluation of Quantization's Impact on CLIP Beyond Accuracy](https://arxiv.org/abs/2509.21173v1)** (2025-09-25)
   - *Aymen Bouguerra* et al.
@@ -379,6 +401,15 @@ A comprehensive collection of artificial intelligence and machine learning resea
   - *Duy Khanh Lam* et al.
 
 ## Quantitative Investment & Factor Mining
+
+- **[AlphaForge: A Framework to Mine and Dynamically Combine Formulaic Alpha Factors](https://arxiv.org/abs/2406.18394)** (2024-06-26) - *AAAI 2025*
+  - *Hao Shi* et al.
+
+- **[R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization](https://arxiv.org/abs/2505.15155)** (2025-05-21)
+  - *Yuante Li* et al.
+
+- **[From Deep Learning to LLMs: A survey of AI in Quantitative Investment](https://arxiv.org/abs/2503.21422)** (2025-03-31)
+  - *Bokai Cao* et al.
 
 - **[Long-Range Dependence in Financial Markets: Empirical Evidence and Generative Modeling Challenges](https://arxiv.org/abs/2509.19663v1)** (2025-09-24)
   - *Yifan He* et al.
@@ -575,6 +606,9 @@ A comprehensive collection of artificial intelligence and machine learning resea
   - *Philipp Koch* et al.
 
 ## Time Series Forecasting & Prediction
+
+- **[FinTSB: A Comprehensive and Practical Benchmark for Financial Time Series Forecasting](https://arxiv.org/abs/2502.18834)** (2025-02-26)
+  - *Yifan Hu* et al.
 
 - **[A Causality-Aware Spatiotemporal Model for Multi-Region and Multi-Pollutant Air Quality Forecasting](https://arxiv.org/abs/2509.21260v1)** (2025-09-25)
   - *Junxin Lu* et al.
