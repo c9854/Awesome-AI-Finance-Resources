@@ -70,6 +70,8 @@ A curated list of open-source projects, research papers, and resources for AI-dr
 
 ---
 
+AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets for Robust Exploration
+
 ## Papers & Tutorials
 
 - Include other notable papers, tutorials, or review articles here.
