@@ -19,6 +19,14 @@ A curated list of **AI, LLMs, and Multi-Agent Systems in Finance**: platforms, t
 | [hhxg.top](https://hhxg.top/)                                | Web Resource    | Website | Finance AI resources & tools                    |
 | [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | Curated List    | GitHub  | Related awesome collection                      |
 
+## 📚 Surveys & Reviews
+
+- [A Survey of Large Language Models for Financial Applications](https://arxiv.org/abs/2409.33333) — arXiv 2024
+- [From Deep Learning to LLMs: A Survey of AI in Quantitative Investment](https://arxiv.org/abs/2406.44444) — arXiv 2024
+- [Language Modeling for the Future of Finance: Tasks & Data](https://arxiv.org/abs/2504.07274) — arXiv 2025
+- [Artificial Intelligence in Finance: A Comprehensive Review](https://link.springer.com/article/10.1007/s43546-023-00618-x) — Springer, 2024
+
+
 
 
 ## 📊 Quantitative Investment & Factor Models
@@ -62,12 +70,8 @@ A curated list of **AI, LLMs, and Multi-Agent Systems in Finance**: platforms, t
 - Social Media Attention & Retail Investor Behavior — *International Review of Financial Analysis, 2023*
 - Does Generative AI Facilitate Investor Trading? — *Journal of Accounting and Economics, 2024*
 
-## 📚 Surveys & Reviews
 
-- [A Survey of Large Language Models for Financial Applications](https://arxiv.org/abs/2409.33333) — arXiv 2024
-- [From Deep Learning to LLMs: A Survey of AI in Quantitative Investment](https://arxiv.org/abs/2406.44444) — arXiv 2024
-- [Language Modeling for the Future of Finance: Tasks & Data](https://arxiv.org/abs/2504.07274) — arXiv 2025
-- [Artificial Intelligence in Finance: A Comprehensive Review](https://link.springer.com/article/10.1007/s43546-023-00618-x) — Springer, 2024
+
 
 
 ## License
