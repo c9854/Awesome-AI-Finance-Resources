@@ -27,16 +27,18 @@ A curated list of **AI, LLMs, and Multi-Agent Systems in Finance**: platforms, t
 
 ## 🛠️ Platforms & Tools
 
-| Name                                                    | Type            | Source | Notes                                           |
-| ------------------------------------------------------- | --------------- | ------ | ----------------------------------------------- |
-| [Qlib](https://github.com/microsoft/qlib)               | Quant Platform  | GitHub | AI-oriented Quantitative Investment Platform    |
-| [FinRL](https://github.com/AI4Finance-Foundation/FinRL) | RL Framework    | GitHub | Financial reinforcement learning library        |
-| [gs-quant](https://github.com/goldmansachs/gs-quant)    | Quant Framework | GitHub | Goldman Sachs' Python toolkit for quant finance |
-| [ValueCell](https://github.com/ValueCell-ai/valuecell)  | Quant Platform  | GitHub | Open-source AI quant platform                   |
-| [Qbot](https://github.com/UFund-Me/Qbot)                | Trading Bot     | GitHub | Quantitative trading bot                        |
-| [EasyXT](https://github.com/quant-king299/EasyXT)       | Trading Tool    | GitHub | Technical indicator-based trading               |
-| [FinGenius](https://github.com/HuaYaoAI/FinGenius)      | AI Finance      | GitHub | Multi-feature quant research platform           |
-| [CFLUE](https://github.com/aliyun/cflue)                | NLP Engine      | GitHub | Financial language understanding engine         |
+| Name                                                         | Type            | Source  | Notes                                           |
+| ------------------------------------------------------------ | --------------- | ------- | ----------------------------------------------- |
+| [Qlib](https://github.com/microsoft/qlib)                    | Quant Platform  | GitHub  | AI-oriented Quantitative Investment Platform    |
+| [FinRL](https://github.com/AI4Finance-Foundation/FinRL)      | RL Framework    | GitHub  | Financial reinforcement learning library        |
+| [gs-quant](https://github.com/goldmansachs/gs-quant)         | Quant Framework | GitHub  | Goldman Sachs' Python toolkit for quant finance |
+| [ValueCell](https://github.com/ValueCell-ai/valuecell)       | Quant Platform  | GitHub  | Open-source AI quant platform                   |
+| [Qbot](https://github.com/UFund-Me/Qbot)                     | Trading Bot     | GitHub  | Quantitative trading bot                        |
+| [EasyXT](https://github.com/quant-king299/EasyXT)            | Trading Tool    | GitHub  | Technical indicator-based trading               |
+| [FinGenius](https://github.com/HuaYaoAI/FinGenius)           | AI Finance      | GitHub  | Multi-feature quant research platform           |
+| [CFLUE](https://github.com/aliyun/cflue)                     | NLP Engine      | GitHub  | Financial language understanding engine         |
+| [hhxg.top](https://hhxg.top/)                                | Web Resource    | Website | Finance AI resources & tools                    |
+| [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | Curated List    | GitHub  | Related awesome collection                      |
 
 ---
 
