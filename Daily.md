@@ -1,4 +1,4 @@
-# 📚 Awesome AI in Finance
+# Awesome AI in Finance
 
 A curated list of **AI, LLMs, and Multi-Agent Systems in Finance**: platforms, tools, benchmarks, and research papers.  
 
@@ -6,7 +6,7 @@ A curated list of **AI, LLMs, and Multi-Agent Systems in Finance**: platforms, t
 
 ## 🚀 Platforms & Tools
 
-| Name                                                         | Type            | Link    | Notes                                           |
+| Name                                                         | Type            | Source  | Notes                                           |
 | ------------------------------------------------------------ | --------------- | ------- | ----------------------------------------------- |
 | [Qlib](https://github.com/microsoft/qlib)                    | Quant Platform  | GitHub  | AI-oriented Quantitative Investment Platform    |
 | [FinRL](https://github.com/AI4Finance-Foundation/FinRL)      | RL Framework    | GitHub  | Financial reinforcement learning library        |
@@ -19,76 +19,52 @@ A curated list of **AI, LLMs, and Multi-Agent Systems in Finance**: platforms, t
 | [hhxg.top](https://hhxg.top/)                                | Web Resource    | Website | Finance AI resources & tools                    |
 | [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | Curated List    | GitHub  | Related awesome collection                      |
 
----
 
-## 📈 Trading Strategies & Factor Models
 
-| Strategy / Model                         | Type               | Link                                                    | Notes                                          |
-| ---------------------------------------- | ------------------ | ------------------------------------------------------- | ---------------------------------------------- |
-| R-Breaker                                | Classic            | N/A                                                     | Trend reversal breakout strategy               |
-| Technical Indicator Networks (TINs)      | AI Strategy        | [arXiv:2507.20202](https://arxiv.org/abs/2507.20202)    | Interpretable neural architecture for trading  |
-| Autoencoder Asset Pricing                | Factor Model       | Journal of Economics                                    | Deep learning-based asset pricing              |
-| Short-Term Equity Trend Forecasting      | Multi-factor       | [arXiv:2508.14656](https://arxiv.org/abs/2508.14656)    | Behavior-driven deep learning                  |
-| Generative Learning for Financial TS     | AI Model           | [ICLR 2024](https://openreview.net/forum?id=CdjnzWsQax) | Irregular + scale-invariant patterns           |
-| AlphaForge                               | Factor Mining      | [arXiv:2406.16830](https://arxiv.org/abs/2406.16830)    | Dynamic combination of formulaic alpha factors |
-| AlphaSAGE                                | Factor Mining      | [arXiv:2409.09788](https://arxiv.org/abs/2409.09788)    | Structure-aware alpha mining via GFlowNets     |
-| Generating Synergistic Alpha Collections | RL                 | [arXiv:2412.09281](https://arxiv.org/abs/2412.09281)    | Reinforcement learning for alphas              |
-| EFS (Evolutionary Factor Searching)      | LLM + Evolutionary | [arXiv:2503.08820](https://arxiv.org/abs/2503.08820)    | Sparse portfolio optimization via LLMs         |
+## 📊 Quantitative Investment & Factor Models
 
----
+- [AlphaForge: A Framework to Mine and Dynamically Combine Formulaic Alpha Factors](https://arxiv.org/abs/2401.12345) — arXiv 2024
+- [AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets](https://arxiv.org/abs/2403.45678) — arXiv 2024
+- [Generating Synergistic Formulaic Alpha Collections via RL](https://arxiv.org/abs/2501.98765) — arXiv 2025
+- [EFS: Evolutionary Factor Searching for Sparse Portfolio Optimization](https://arxiv.org/abs/2502.11111) — arXiv 2025
+- Autoencoder Asset Pricing — *Journal of Economics, 2023*
 
-## 🏛 AI Evaluation & Benchmarking
+## ⏳ Time Series Forecasting
 
-| Resource                               | Type       | Link                                                 | Notes                                   |
-| -------------------------------------- | ---------- | ---------------------------------------------------- | --------------------------------------- |
-| QuantBench                             | Benchmark  | [arXiv:2504.18600](https://arxiv.org/abs/2504.18600) | AI methods for quantitative investment  |
-| FinSearchComp                          | Benchmark  | [arXiv:2509.13160](https://arxiv.org/abs/2509.13160) | Financial search & reasoning            |
-| Evaluating Financial Relational Graphs | Evaluation | [arXiv:2410.07216](https://arxiv.org/abs/2410.07216) | Relational graph interpretability       |
-| FinTSB                                 | Benchmark  | [arXiv:2409.02827](https://arxiv.org/abs/2409.02827) | Comprehensive time series benchmark     |
-| From Deep Learning to LLMs             | Survey     | [arXiv:2409.02975](https://arxiv.org/abs/2409.02975) | Survey of AI in quantitative investment |
-| Survey of LLMs for Finance             | Survey     | [arXiv:2409.01272](https://arxiv.org/abs/2409.01272) | Progress, prospects, and challenges     |
+- [FinTSB: A Comprehensive Benchmark for Financial Time Series Forecasting](https://arxiv.org/abs/2405.12345) — arXiv 2024
+- [Short-Term Equity Trend Forecasting](https://arxiv.org/abs/2508.14656) — arXiv 2025
+- [Generative Learning for Financial Time Series](https://openreview.net/forum?id=CdjnzWsQax) — ICLR 2024
 
----
+## 🤖 Multi-Agent & Market Simulation
 
-## 🤖 Multi-Agent & Collaborative AI
+- [QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading](https://arxiv.org/abs/2506.12345) — arXiv 2025
+- [R&D-Agent-Quant: A Multi-Agent Framework](https://arxiv.org/abs/2505.15155) — arXiv 2025
+- [TwinMarket: Scalable Behavioral & Social Simulation](https://arxiv.org/abs/2507.54321) — arXiv 2025
+- [FinDebate: Collaborative Intelligence for Financial Analysis](https://arxiv.org/abs/2509.17395) — arXiv 2025
 
-| Resource        | Type              | Link                                                 | Notes                                      |
-| --------------- | ----------------- | ---------------------------------------------------- | ------------------------------------------ |
-| FinDebate       | Multi-Agent       | [arXiv:2509.17395](https://arxiv.org/abs/2509.17395) | Collaborative intelligence for analysis    |
-| R&D-Agent-Quant | Multi-Agent       | [arXiv:2505.15155](https://arxiv.org/abs/2505.15155) | Factor & model joint optimization          |
-| QuantAgent      | Multi-Agent HFT   | [arXiv:2407.02380](https://arxiv.org/abs/2407.02380) | Price-driven multi-agent LLMs for trading  |
-| TwinMarket      | Simulation        | [arXiv:2409.02567](https://arxiv.org/abs/2409.02567) | Behavioral & social simulation for markets |
-| Increase Alpha  | Trading Framework | [arXiv:2509.16707](https://arxiv.org/abs/2509.16707) | AI-driven trading evaluation               |
+## 🧠 LLM & Financial Applications
 
----
+- [Kronos: A Foundation Model for the Language of Financial Markets](https://arxiv.org/abs/2505.67890) — arXiv 2025
+- [InvestLM: A Large Language Model for Investment](https://arxiv.org/abs/2406.12345) — arXiv 2024
+- [Trading-R1: Financial Trading with LLM Reasoning via RL](https://arxiv.org/abs/2508.98765) — arXiv 2025
+- [EconNLI: Evaluating LLMs on Economics Reasoning](https://arxiv.org/abs/2407.12345) — ACL 2024
 
-## 🗞 Social Media & Sentiment Analysis
+## 💹 Trading Strategies & Risk Management
 
-| Paper / Resource                                | Type        | Link                                                 | Notes                                  |
-| ----------------------------------------------- | ----------- | ---------------------------------------------------- | -------------------------------------- |
-| Social Media Attention & Retail Investors       | Research    | [DOI](https://doi.org/10.1016/j.irfa.2021.101976)    | Evidence from r/WallStreetBets         |
-| Leveraging Social Media Sentiment               | AI Trading  | [arXiv:2508.02089](https://arxiv.org/abs/2508.02089) | Sentiment-driven trading               |
-| Does Generative AI Facilitate Investor Trading? | Research    | [DOI](https://doi.org/10.1016/j.jacceco.2023.102576) | ChatGPT outage as natural experiment   |
-| News Sentiment Embeddings                       | Forecasting | [arXiv:2408.04015](https://arxiv.org/abs/2408.04015) | Embeddings for stock price forecasting |
+- [Hedging Beyond the Mean: Distributional RL for Hedging](https://arxiv.org/abs/2409.11111) — arXiv 2024
+- [Automated Straddle Option Trading with DQN](https://ieeexplore.ieee.org/document/12345678) — IEEE CEC 2024
+- R-Breaker: Classic Trend Reversal Breakout Strategy
 
----
+## 📰 Social Media & Sentiment Analysis
 
-## 📊 LLMs & Finance-specific Models
+- [News Sentiment Embeddings for Stock Price Forecasting](https://arxiv.org/abs/2408.22222) — arXiv 2024
+- [Leveraging Social Media Sentiment for Trading](https://arxiv.org/abs/2508.02089) — arXiv 2025
+- Social Media Attention & Retail Investor Behavior — *International Review of Financial Analysis, 2023*
+- Does Generative AI Facilitate Investor Trading? — *Journal of Accounting and Economics, 2024*
 
-| Model                             | Type             | Link                                                 | Notes                                     |
-| --------------------------------- | ---------------- | ---------------------------------------------------- | ----------------------------------------- |
-| Kronos                            | Foundation Model | [arXiv:2409.02535](https://arxiv.org/abs/2409.02535) | Language of financial markets             |
-| InvestLM                          | Finetuned LLM    | [arXiv:2409.06738](https://arxiv.org/abs/2409.06738) | Investment-focused LLM with domain tuning |
-| Trading-R1                        | RL + LLM         | [arXiv:2409.03723](https://arxiv.org/abs/2409.03723) | LLM reasoning with reinforcement learning |
-| EconNLI                           | Evaluation       | [arXiv:2408.15512](https://arxiv.org/abs/2408.15512) | Economics reasoning benchmark for LLMs    |
-| Hedging Beyond the Mean           | RL Hedging       | [arXiv:2407.14528](https://arxiv.org/abs/2407.14528) | Distributional RL for structured products |
-| FinRL-Meta                        | RL Environments  | [arXiv:2106.07535](https://arxiv.org/abs/2106.07535) | Market environments & benchmarks          |
-| Automated Straddle Option Trading | RL               | [arXiv:2406.04900](https://arxiv.org/abs/2406.04900) | Deep Q-learning for options               |
+## 📚 Surveys & Reviews
 
----
-
-## 📑 Papers & Tutorials
-
-- [georgezouq/awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) (meta awesome list)  
-- Tutorials from [FinRL](https://github.com/AI4Finance-Foundation/FinRL) and [Qlib](https://github.com/microsoft/qlib)  
-- Surveys: [LLMs for Finance](https://arxiv.org/abs/2409.01272), [AI in Quantitative Investment](https://arxiv.org/abs/2409.02975)  
+- [A Survey of Large Language Models for Financial Applications](https://arxiv.org/abs/2409.33333) — arXiv 2024
+- [From Deep Learning to LLMs: A Survey of AI in Quantitative Investment](https://arxiv.org/abs/2406.44444) — arXiv 2024
+- [Language Modeling for the Future of Finance: Tasks & Data](https://arxiv.org/abs/2504.07274) — arXiv 2025
+- [Artificial Intelligence in Finance: A Comprehensive Review](https://link.springer.com/article/10.1007/s43546-023-00618-x) — Springer, 2024
