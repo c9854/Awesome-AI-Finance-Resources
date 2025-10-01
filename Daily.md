@@ -1,70 +1,42 @@
-# Awesome AI in Finance
+# AI in Finance Papers
 
-A curated list of **AI, LLMs, and Multi-Agent Systems in Finance**: platforms, tools, benchmarks, and research papers.  
-
----
-
-## 🚀 Platforms & Tools
-
-| Name                                                         | Type            | Source  | Notes                                           |
-| ------------------------------------------------------------ | --------------- | ------- | ----------------------------------------------- |
-| [Qlib](https://github.com/microsoft/qlib)                    | Quant Platform  | GitHub  | AI-oriented Quantitative Investment Platform    |
-| [FinRL](https://github.com/AI4Finance-Foundation/FinRL)      | RL Framework    | GitHub  | Financial reinforcement learning library        |
-| [gs-quant](https://github.com/goldmansachs/gs-quant)         | Quant Framework | GitHub  | Goldman Sachs’ Python toolkit for quant finance |
-| [ValueCell](https://github.com/ValueCell-ai/valuecell)       | Quant Platform  | GitHub  | Open-source AI quant platform                   |
-| [Qbot](https://github.com/UFund-Me/Qbot)                     | Trading Bot     | GitHub  | Quantitative trading bot                        |
-| [EasyXT](https://github.com/quant-king299/EasyXT)            | Trading Tool    | GitHub  | Technical indicator-based trading               |
-| [FinGenius](https://github.com/HuaYaoAI/FinGenius)           | AI Finance      | GitHub  | Multi-feature quant research platform           |
-| [CFLUE](https://github.com/aliyun/cflue)                     | NLP Engine      | GitHub  | Financial language understanding engine         |
-| [hhxg.top](https://hhxg.top/)                                | Web Resource    | Website | Finance AI resources & tools                    |
-| [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | Curated List    | GitHub  | Related awesome collection                      |
-
-
-
-## 📊 Quantitative Investment & Factor Models
-
-- [AlphaForge: A Framework to Mine and Dynamically Combine Formulaic Alpha Factors](https://arxiv.org/abs/2401.12345) — arXiv 2024
-- [AlphaSAGE: Structure-Aware Alpha Mining via GFlowNets](https://arxiv.org/abs/2403.45678) — arXiv 2024
-- [Generating Synergistic Formulaic Alpha Collections via RL](https://arxiv.org/abs/2501.98765) — arXiv 2025
-- [EFS: Evolutionary Factor Searching for Sparse Portfolio Optimization](https://arxiv.org/abs/2502.11111) — arXiv 2025
-- Autoencoder Asset Pricing — *Journal of Economics, 2023*
-
-## ⏳ Time Series Forecasting
-
-- [FinTSB: A Comprehensive Benchmark for Financial Time Series Forecasting](https://arxiv.org/abs/2405.12345) — arXiv 2024
-- [Short-Term Equity Trend Forecasting](https://arxiv.org/abs/2508.14656) — arXiv 2025
-- [Generative Learning for Financial Time Series](https://openreview.net/forum?id=CdjnzWsQax) — ICLR 2024
-
-## 🤖 Multi-Agent & Market Simulation
-
-- [QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading](https://arxiv.org/abs/2506.12345) — arXiv 2025
-- [R&D-Agent-Quant: A Multi-Agent Framework](https://arxiv.org/abs/2505.15155) — arXiv 2025
-- [TwinMarket: Scalable Behavioral & Social Simulation](https://arxiv.org/abs/2507.54321) — arXiv 2025
-- [FinDebate: Collaborative Intelligence for Financial Analysis](https://arxiv.org/abs/2509.17395) — arXiv 2025
-
-## 🧠 LLM & Financial Applications
-
-- [Kronos: A Foundation Model for the Language of Financial Markets](https://arxiv.org/abs/2505.67890) — arXiv 2025
-- [InvestLM: A Large Language Model for Investment](https://arxiv.org/abs/2406.12345) — arXiv 2024
-- [Trading-R1: Financial Trading with LLM Reasoning via RL](https://arxiv.org/abs/2508.98765) — arXiv 2025
-- [EconNLI: Evaluating LLMs on Economics Reasoning](https://arxiv.org/abs/2407.12345) — ACL 2024
-
-## 💹 Trading Strategies & Risk Management
-
-- [Hedging Beyond the Mean: Distributional RL for Hedging](https://arxiv.org/abs/2409.11111) — arXiv 2024
-- [Automated Straddle Option Trading with DQN](https://ieeexplore.ieee.org/document/12345678) — IEEE CEC 2024
-- R-Breaker: Classic Trend Reversal Breakout Strategy
-
-## 📰 Social Media & Sentiment Analysis
-
-- [News Sentiment Embeddings for Stock Price Forecasting](https://arxiv.org/abs/2408.22222) — arXiv 2024
-- [Leveraging Social Media Sentiment for Trading](https://arxiv.org/abs/2508.02089) — arXiv 2025
-- Social Media Attention & Retail Investor Behavior — *International Review of Financial Analysis, 2023*
-- Does Generative AI Facilitate Investor Trading? — *Journal of Accounting and Economics, 2024*
-
-## 📚 Surveys & Reviews
-
-- [A Survey of Large Language Models for Financial Applications](https://arxiv.org/abs/2409.33333) — arXiv 2024
-- [From Deep Learning to LLMs: A Survey of AI in Quantitative Investment](https://arxiv.org/abs/2406.44444) — arXiv 2024
-- [Language Modeling for the Future of Finance: Tasks & Data](https://arxiv.org/abs/2504.07274) — arXiv 2025
-- [Artificial Intelligence in Finance: A Comprehensive Review](https://link.springer.com/article/10.1007/s43546-023-00618-x) — Springer, 2024
+- [Attention as a Compass: Efficient Exploration for Process-Supervised RL in Reasoning Models](http://arxiv.org/abs/2509.26628v1) — Runze Liu, Jiakang Wang, Yuling Shi, Zhihui Xie, Chenxin An, Kaiyan Zhang, Jian Zhao, Xiaodong Gu, Lei Lin, Wenping Hu, Xiu Li, Fuzheng Zhang, Guorui Zhou, Kun Gai (2025-09-30)
+- [Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](http://arxiv.org/abs/2509.26626v1) — Siddarth Venkatraman, Vineet Jain, Sarthak Mittal, Vedant Shah, Johan Obando-Ceron, Yoshua Bengio, Brian R. Bartoldson, Bhavya Kailkhura, Guillaume Lajoie, Glen Berseth, Nikolay Malkin, Moksh Jain (2025-09-30)
+- [Learning to See Before Seeing: Demystifying LLM Visual Priors from Language Pre-training](http://arxiv.org/abs/2509.26625v1) — Junlin Han, Shengbang Tong, David Fan, Yufan Ren, Koustuv Sinha, Philip Torr, Filippos Kokkinos (2025-09-30)
+- [Black-box Context-free Grammar Inference for Readable & Natural Grammars](http://arxiv.org/abs/2509.26616v1) — Mohammad Rifat Arefin, Shanto Rahman, Christoph Csallner (2025-09-30)
+- [MENLO: From Preferences to Proficiency -- Evaluating and Modeling Native-like Quality Across 47 Languages](http://arxiv.org/abs/2509.26601v1) — Chenxi Whitehouse, Sebastian Ruder, Tony Lin, Oksana Kurylo, Haruka Takagi, Janice Lam, Nicolò Busetto, Denise Diaz (2025-09-30)
+- [Deconstructing Self-Bias in LLM-generated Translation Benchmarks](http://arxiv.org/abs/2509.26600v1) — Wenda Xu, Sweta Agrawal, Vilém Zouhar, Markus Freitag, Daniel Deutsch (2025-09-30)
+- [Are Robust LLM Fingerprints Adversarially Robust?](http://arxiv.org/abs/2509.26598v1) — Anshul Nasery, Edoardo Contente, Alkin Kaz, Pramod Viswanath, Sewoong Oh (2025-09-30)
+- [Exploring Large Language Model as an Interactive Sports Coach: Lessons from a Single-Subject Half Marathon Preparation](http://arxiv.org/abs/2509.26593v1) — Kichang Lee (2025-09-30)
+- [Generating Difficult-to-Translate Texts](http://arxiv.org/abs/2509.26592v1) — Vilém Zouhar, Wenda Xu, Parker Riley, Juraj Juraska, Mara Finkelstein, Markus Freitag, Dan Deutsch (2025-09-30)
+- [Fairness Testing in Retrieval-Augmented Generation: How Small Perturbations Reveal Bias in Small Language Models](http://arxiv.org/abs/2509.26584v1) — Matheus Vinicius da Silva de Oliveira, Jonathan de Andrade Silva, Awdren de Lima Fontao (2025-09-30)
+- [Stochasticity and Practical Identifiability in Epidemic Models: A Monte Carlo Perspective](http://arxiv.org/abs/2509.26577v1) — Chiara Mattamira, Olivia Prosper Feldman (2025-09-30)
+- [Commutative algebra neural network reveals genetic origins of diseases](http://arxiv.org/abs/2509.26566v1) — JunJie Wee, Faisal Suwayyid, Mushal Zia, Hongsong Feng, Yuta Hozumi, Guo-Wei Wei (2025-09-30)
+- [Automated and Scalable SEM Image Analysis of Perovskite Solar Cell Materials via a Deep Segmentation Framework](http://arxiv.org/abs/2509.26548v1) — Jian Guo Pan, Lin Wang, Xia Cai (2025-09-30)
+- [HilbertA: Hilbert Attention for Image Generation with Diffusion Models](http://arxiv.org/abs/2509.26538v1) — Shaoyi Zheng, Wenbo Lu, Yuxuan Xia, Haomin Liu, Shengjie Wang (2025-09-30)
+- [Explainable and Resilient ML-Based Physical-Layer Attack Detectors](http://arxiv.org/abs/2509.26530v1) — Aleksandra Knapińska, Marija Furdek (2025-09-30)
+- [Interdisciplinary Digital Twin Engine InterTwin for calorimeter simulation](http://arxiv.org/abs/2509.26527v1) — Corentin Allaire, Vera Maiboroda, David Rousseau (2025-09-30)
+- [Entropy After $\langle \texttt{/Think} \rangle$ for reasoning model early exiting](http://arxiv.org/abs/2509.26522v1) — Xi Wang, James McInerney, Lequn Wang, Nathan Kallus (2025-09-30)
+- [Electromagnetically driven, environmentally adaptive, and functionally switchable hydrodynamic devices](http://arxiv.org/abs/2509.26491v1) — Chen-Long Wu, Bin Wang, Hao Wang, Neng-Zhi Yao, Liujun Xu, Xuesheng Wang, Jiping Huang (2025-09-30)
+- [ORACLE: A rigorous metric and method to explore all near-optimal designs for energy systems](http://arxiv.org/abs/2509.26452v1) — E. M. Turan, S. Moret, A. Bardow (2025-09-30)
+- [AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size](http://arxiv.org/abs/2509.26432v1) — Guanxi Lu, Hao, Chen, Yuto Karashima, Zhican Wang, Daichi Fujiki, Hongxiang Fan (2025-09-30)
+- [TTT3R: 3D Reconstruction as Test-Time Training](http://arxiv.org/abs/2509.26645v1) — Xingyu Chen, Yue Chen, Yuliang Xiu, Andreas Geiger, Anpei Chen (2025-09-30)
+- [Benchmarking Egocentric Visual-Inertial SLAM at City Scale](http://arxiv.org/abs/2509.26639v1) — Anusha Krishnan, Shaohui Liu, Paul-Edouard Sarlin, Oscar Gentilhomme, David Caruso, Maurizio Monge, Richard Newcombe, Jakob Engel, Marc Pollefeys (2025-09-30)
+- [Scaling Spoken Language Models with Syllabic Speech Tokenization](http://arxiv.org/abs/2509.26634v1) — Nicholas Lee, Cheol Jun Cho, Alan W Black, Gopala K. Anumanchipalli (2025-09-30)
+- [Robust Safety-Critical Control of Integrator Chains with Mismatched Perturbations via Linear Time-Varying Feedback](http://arxiv.org/abs/2509.26629v1) — Imtiaz Ur Rehman Moussa Labbadi, Amine Abadi, Lew Lew Yan Voon (2025-09-30)
+- [TimeRewarder: Learning Dense Reward from Passive Videos via Frame-wise Temporal Distance](http://arxiv.org/abs/2509.26627v1) — Yuyang Liu, Chuan Wen, Yihang Hu, Dinesh Jayaraman, Yang Gao (2025-09-30)
+- [Recursive Self-Aggregation Unlocks Deep Thinking in Large Language Models](http://arxiv.org/abs/2509.26626v1) — Siddarth Venkatraman, Vineet Jain, Sarthak Mittal, Vedant Shah, Johan Obando-Ceron, Yoshua Bengio, Brian R. Bartoldson, Bhavya Kailkhura, Guillaume Lajoie, Glen Berseth, Nikolay Malkin, Moksh Jain (2025-09-30)
+- [Quantum Simulation of Random Unitaries from Clebsch-Gordan Transforms](http://arxiv.org/abs/2509.26623v1) — Dmitry Grinko, Satoshi Yoshida (2025-09-30)
+- [DA$^2$: Depth Anything in Any Direction](http://arxiv.org/abs/2509.26618v1) — Haodong Li, Wangguangdong Zheng, Jing He, Yuhao Liu, Xin Lin, Xin Yang, Ying-Cong Chen, Chunchao Guo (2025-09-30)
+- [Direct Measurement of Extinction in a Planet-Hosting Gap](http://arxiv.org/abs/2509.26617v1) — G. Cugno, S. Facchini, F. Alarcon, J. Bae, M. Benisty, A. -C. Eilers, G. C. K. Leung, M. Meyer, L. Pueyo, R. Teague, E. Bergin, J. Girard, R. Helled, J. Huang, J. Leisenring (2025-09-30)
+- [Exploring cosmological constraints on galaxy formation time](http://arxiv.org/abs/2509.26611v1) — Agripino Sousa-Neto, Maria Aldinêz Dantas, Javier E. González, Joel C. Carvalho, Jailson Alcaniz (2025-09-30)
+- [HilbertA: Hilbert Attention for Image Generation with Diffusion Models](http://arxiv.org/abs/2509.26538v1) — Shaoyi Zheng, Wenbo Lu, Yuxuan Xia, Haomin Liu, Shengjie Wang (2025-09-30)
+- [Explainable and Resilient ML-Based Physical-Layer Attack Detectors](http://arxiv.org/abs/2509.26530v1) — Aleksandra Knapińska, Marija Furdek (2025-09-30)
+- [Interdisciplinary Digital Twin Engine InterTwin for calorimeter simulation](http://arxiv.org/abs/2509.26527v1) — Corentin Allaire, Vera Maiboroda, David Rousseau (2025-09-30)
+- [AdaBlock-dLLM: Semantic-Aware Diffusion LLM Inference via Adaptive Block Size](http://arxiv.org/abs/2509.26432v1) — Guanxi Lu, Hao, Chen, Yuto Karashima, Zhican Wang, Daichi Fujiki, Hongxiang Fan (2025-09-30)
+- [Interactions Between Multiple Environmental Markets: Addressing Contamination Bias in Overlapping Policies](http://arxiv.org/abs/2509.26403v1) — Tiantian Yang, Richard S. J. Tol (2025-09-30)
+- [Exact Bias of Linear TRNG Correctors -- Spectral Approach](http://arxiv.org/abs/2509.26393v1) — Maciej Skorski, Francisco-Javier Soto, Onur Günlü (2025-09-30)
+- [Joint Communication and Parameter Estimation in MIMO Channels](http://arxiv.org/abs/2509.26365v1) — Gökhan Yılmaz, Franz Lampel, Hamdi Joudeh, Giuseppe Caire (2025-09-30)
+- [An Efficient Shift-and-Stack Algorithm Applied to Detection Catalogs](http://arxiv.org/abs/2509.26279v1) — Steven Stetzler, Mario Jurić, Pedro H. Bernardinelli, Dino Bektešević, Colin Orion Chandler, Andrew J. Connolly, Fred C. Adams, Cesar Fuentes, David W. Gerdes, Matthew J. Holman, Hsing Wen Lin, Larissa Markwardt, Andrew McNeill, Michael Mommert, Kevin J. Napier, William J. Oldroyd, Matthew J. Payne, Andrew S. Rivkin, Luis E. Salazar-Manzano, Hilke Schlichting, Scott S. Sheppard, Dallin Spencer, Ryder Strauss, David E. Trilling, Chadwick A. Trujillo (2025-09-30)
+- [Optimizing Speech Language Models for Acoustic Consistency](http://arxiv.org/abs/2509.26276v1) — Morteza Rohanian, Michael Krauthammer (2025-09-30)
+- [Comparative study of YSO, GaGG, and BGO scintillators coupled to a SiPM array for gamma-ray spectroscopy](http://arxiv.org/abs/2509.26252v1) — S. Nuruyev, G. Ahmadov, D. Berikov, M. Holik, F. Ahmadov, A. Sadigov, R. Akbarov, J. Naghiyev, I. Nuruyev, A. Mammadli (2025-09-30)
