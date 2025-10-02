@@ -134,6 +134,7 @@ A curated list of **AI, LLMs, and Multi-Agent Systems in Finance**: platforms, t
 | [Order Book Filtration and Directional Signal Extraction at High Frequency](https://arxiv.org/abs/2507.22712v1) | arXiv  | 2025-07-30 |
 | [Reinforcement Learning for Trade Execution with Market Impact](https://arxiv.org/abs/2507.06345v1) | arXiv  | 2025-07-08 |
 | [A Comparative Analysis of Statistical and Machine Learning Models for Outlier Detection in Bitcoin Limit Order Books](https://arxiv.org/abs/2507.14960v1) | arXiv  | 2025-07-20 |
+| [QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading](https://arxiv.org/abs/2509.09995) | arXiv  | 2025-09-12 |
 
 ------
 
@@ -187,6 +188,7 @@ A curated list of **AI, LLMs, and Multi-Agent Systems in Finance**: platforms, t
 | [TwinMarket: A Scalable Behavioral and Social Simulation for Financial Markets](https://arxiv.org/abs/2409.01013) | arXiv   | 2024-09-02 |
 | [FinDebate: Collaborative Intelligence for Financial Analysis](https://arxiv.org/abs/2509.17395) | arXiv   | 2025-09-17 |
 | [QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading](https://arxiv.org/abs/2509.09995) | arXiv   | 2024-09-16 |
+| [Virtual Agent Economies](https://arxiv.org/abs/2509.10147)  | arXiv   | 2025-09-12 |
 
 ------
 
